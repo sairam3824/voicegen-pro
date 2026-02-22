@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+npm-debug.log
+
+# User Specific
+voice/
+scripts/
+scripts*.md
+
+
+# OS
+.DS_Store
+
+# DB
+database.db
