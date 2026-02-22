@@ -1,0 +1,13 @@
+source venv/bin/activate
+python generate_voice.py
+
+
+source venv/bin/activate
+pip install -r requirements.txt
+source venv/bin/activate
+python backend/main.py
+
+source venv/bin/activate
+cd frontend
+npm install
+npm run dev
