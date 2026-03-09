@@ -50,3 +50,7 @@ The frontend will start at `http://localhost:5173`.
 4. (Optional) Set a target duration in seconds.
 5. Click **Generate Voice**.
 6. Listen to the result or download the WAV file.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
